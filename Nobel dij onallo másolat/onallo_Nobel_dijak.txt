@@ -1,0 +1,15 @@
+Tesztelj json server-el:
+1. json-server --watch prize.json
+2. jobb egér az index.html-en Open with live server
+3. Azt is irasd ki a táblázatban, hogy miért kapták a Nobel-díjat
+4. Vagyis a motivation mezõ legyen megjelenítve
+5. Lehetõleg a díjazott neve alatt, összevont cellában
+6. És a cella háttérszíne legyen más színû
+
+7. Ha kész és lokálisan fut, készíts egy másolat mappát
+8. Alakítsd át a fetch-et, hogy URL címrõl vegye az adatokat:
+https://api.nobelprize.org/v1/prize.json
+9. Írd át a for-ban:
+for (elem of adatok.prizes)  
+10. Tedd föl githubra
+11. A github linket töltsd fel classroomra, ha nem megy, akkor a mappát zpi/rar-ban
