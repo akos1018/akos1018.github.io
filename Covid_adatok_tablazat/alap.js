@@ -13,7 +13,7 @@ function megjelenit(adatok){
     var orszag=document.getElementById("orszag").value;
     var sz='<table class="table table-striped" style="width:80%; text-align:center">';
     sz+='<tr>';
-    sz+='<th colspan="2" style="text-align:center">'+adatok[orszag].location+'</th>';
+    sz+='<th colspan="2" style="text-transform:uppercase">'+adatok[orszag].location+'</th>';
     sz+='</tr>';
     sz+='<tr>';
     sz+='<th>'+'Dátum'+'</th>';
