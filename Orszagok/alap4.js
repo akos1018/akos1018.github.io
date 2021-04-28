@@ -33,7 +33,7 @@ function ellenoriz(){
         helyes++;
         document.getElementById("helyes").innerHTML='<h4>Jó tippek: '+'</h4>'+helyes;
     }
-    else if (nepessegszam >= adatok0[veletlen].population * 0.9)
+    else if (nepessegszam >= adatok0[veletlen].population * 0.9 && nepessegszam <= adatok0[veletlen].population)
     {
         document.getElementById("visszajelzes").innerHTML='<h4>Gratulálok, a helyes megoldás:'+' '+adatok0[veletlen].population+' '+'Fő'+'</h4>';
         helyes++;
