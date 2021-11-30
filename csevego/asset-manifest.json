@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "akos1018.github.io/csevego/static/js/app.0366fab1.chunk.js",
+    "app.js.map": "akos1018.github.io/csevego/static/js/app.0366fab1.chunk.js.map",
+    "runtime~app.js": "akos1018.github.io/csevego/static/js/runtime~app.5a59f40d.js",
+    "runtime~app.js.map": "akos1018.github.io/csevego/static/js/runtime~app.5a59f40d.js.map",
+    "static/js/2.f014d9c6.chunk.js": "akos1018.github.io/csevego/static/js/2.f014d9c6.chunk.js",
+    "static/js/2.f014d9c6.chunk.js.map": "akos1018.github.io/csevego/static/js/2.f014d9c6.chunk.js.map",
+    "favicon-16.png": "akos1018.github.io/csevego/favicon-16.png",
+    "favicon-32.png": "akos1018.github.io/csevego/favicon-32.png",
+    "favicon.ico": "akos1018.github.io/csevego/favicon.ico",
+    "index.html": "akos1018.github.io/csevego/index.html",
+    "manifest.json": "akos1018.github.io/csevego/manifest.json",
+    "serve.json": "akos1018.github.io/csevego/serve.json",
+    "static/js/2.f014d9c6.chunk.js.LICENSE.txt": "akos1018.github.io/csevego/static/js/2.f014d9c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.5a59f40d.js",
+    "static/js/2.f014d9c6.chunk.js",
+    "static/js/app.0366fab1.chunk.js"
+  ]
+}
