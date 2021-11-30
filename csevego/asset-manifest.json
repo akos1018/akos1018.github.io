@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/csevego/static/js/app.0366fab1.chunk.js",
+    "app.js.map": "/csevego/static/js/app.0366fab1.chunk.js.map",
+    "runtime~app.js": "/csevego/static/js/runtime~app.766be5b3.js",
+    "runtime~app.js.map": "/csevego/static/js/runtime~app.766be5b3.js.map",
+    "static/js/2.f014d9c6.chunk.js": "/csevego/static/js/2.f014d9c6.chunk.js",
+    "static/js/2.f014d9c6.chunk.js.map": "/csevego/static/js/2.f014d9c6.chunk.js.map",
+    "favicon-16.png": "/csevego/favicon-16.png",
+    "favicon-32.png": "/csevego/favicon-32.png",
+    "favicon.ico": "/csevego/favicon.ico",
+    "index.html": "/csevego/index.html",
+    "manifest.json": "/csevego/manifest.json",
+    "serve.json": "/csevego/serve.json",
+    "static/js/2.f014d9c6.chunk.js.LICENSE.txt": "/csevego/static/js/2.f014d9c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.766be5b3.js",
+    "static/js/2.f014d9c6.chunk.js",
+    "static/js/app.0366fab1.chunk.js"
+  ]
+}
