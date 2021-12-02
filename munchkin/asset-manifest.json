@@ -1,23 +1,23 @@
 {
   "files": {
-    "app.js": "/static/js/app.296207d2.chunk.js",
-    "app.js.map": "/static/js/app.296207d2.chunk.js.map",
-    "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
-    "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
-    "static/js/2.c79e2d69.chunk.js": "/static/js/2.c79e2d69.chunk.js",
-    "static/js/2.c79e2d69.chunk.js.map": "/static/js/2.c79e2d69.chunk.js.map",
-    "favicon-16.png": "/favicon-16.png",
-    "favicon-32.png": "/favicon-32.png",
-    "favicon.ico": "/favicon.ico",
-    "index.html": "/index.html",
-    "manifest.json": "/manifest.json",
-    "serve.json": "/serve.json",
-    "static/js/2.c79e2d69.chunk.js.LICENSE.txt": "/static/js/2.c79e2d69.chunk.js.LICENSE.txt",
-    "static/media/dobokocka.png": "/static/media/dobokocka.49d2efeb.png"
+    "app.js": "/munchkin/static/js/app.296207d2.chunk.js",
+    "app.js.map": "/munchkin/static/js/app.296207d2.chunk.js.map",
+    "runtime~app.js": "/munchkin/static/js/runtime~app.1e811858.js",
+    "runtime~app.js.map": "/munchkin/static/js/runtime~app.1e811858.js.map",
+    "static/js/2.0784c23e.chunk.js": "/munchkin/static/js/2.0784c23e.chunk.js",
+    "static/js/2.0784c23e.chunk.js.map": "/munchkin/static/js/2.0784c23e.chunk.js.map",
+    "favicon-16.png": "/munchkin/favicon-16.png",
+    "favicon-32.png": "/munchkin/favicon-32.png",
+    "favicon.ico": "/munchkin/favicon.ico",
+    "index.html": "/munchkin/index.html",
+    "manifest.json": "/munchkin/manifest.json",
+    "serve.json": "/munchkin/serve.json",
+    "static/js/2.0784c23e.chunk.js.LICENSE.txt": "/munchkin/static/js/2.0784c23e.chunk.js.LICENSE.txt",
+    "static/media/dobokocka.png": "/munchkin/static/media/dobokocka.49d2efeb.png"
   },
   "entrypoints": [
-    "static/js/runtime~app.2e9f1821.js",
-    "static/js/2.c79e2d69.chunk.js",
+    "static/js/runtime~app.1e811858.js",
+    "static/js/2.0784c23e.chunk.js",
     "static/js/app.296207d2.chunk.js"
   ]
 }
